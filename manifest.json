@@ -3,7 +3,8 @@
   "description": "Make the current page red",
   "version": "2.0",
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "tabs"
   ],
   "background": {
     "scripts": ["jquery-3.1.1.min.js", "content.js"],
